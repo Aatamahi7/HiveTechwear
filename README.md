@@ -23,7 +23,7 @@ Check out [API LIVE DEMO](https://hive-techware-backend.artipatel7.repl.co/) her
 1. Git Clone
 
 ```
-git clone https://github.com/SubhamRakshit97/European_Tourists
+git clone https: https://github.com/Aatamahi7/HiveTechwear
 ```
 
 2. Backend setting
